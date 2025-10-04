@@ -1,0 +1,17 @@
+catboost
+fastapi
+joblib
+klib
+lazypredict
+matplotlib
+numpy
+pandas
+plotly
+pydantic
+requests
+scikit-learn
+scipy
+seaborn
+streamlit
+uvicorn
+xgboost

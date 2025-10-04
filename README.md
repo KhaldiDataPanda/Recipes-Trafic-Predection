@@ -110,7 +110,8 @@ streamlit run app.py
    ```powershell
    pip install -r requirements.txt
    ```
-3. Start the API and Streamlit app as shown above.
+3. ```powershell
+    .\launch.bat```
 4. Send POST requests to `/predict` or use the Streamlit UI.
 
 ---
