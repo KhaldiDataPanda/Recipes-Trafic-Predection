@@ -7,6 +7,8 @@ This project analyzes recipe data to predict whether a recipe will receive high 
 - **Model Export & Persistence** saving artifacts (models, scaler, encoder, metadata).
 - **Deployment** with FastAPI for model serving and Streamlit for a front-end dashboard.
 
+[Recipe Traffic Prediction App](HomePage.png)
+
 ---
 
 ## 1. Data & Exploratory Analysis
@@ -83,8 +85,6 @@ uvicorn api:app --reload
 
 - Page 1: Input recipe features and view prediction.
 - Page 2: Visualize model insights and KPI metrics.
-
-#### Streamlit App Screenshots
 
 Home & Input Page:
 
