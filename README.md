@@ -7,7 +7,7 @@ This project analyzes recipe data to predict whether a recipe will receive high 
 - **Model Export & Persistence** saving artifacts (models, scaler, encoder, metadata).
 - **Deployment** with FastAPI for model serving and Streamlit for a front-end dashboard.
 
-[Recipe Traffic Prediction App](<figs/HomePage.png>)
+![Recipe Traffic Prediction App](<figs/HomePage.png>)
 
 ---
 
