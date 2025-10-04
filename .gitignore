@@ -1,0 +1,8 @@
+# Python cache folders
+__pycache__/
+**/__pycache__/
+
+# CatBoost artifacts
+catboost_info/
+catboost_info/**
+
