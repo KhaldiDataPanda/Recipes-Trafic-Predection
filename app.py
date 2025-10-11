@@ -36,7 +36,7 @@ def load_model():
 
 model, scaler, encoder, CATEGORY_ENCODING, metadata = load_model()
 
-# Function to preprocess data (following the notebook preprocessing steps)
+
 def preprocess_data(df):
     """
     Preprocess the data following the exact steps from the notebook

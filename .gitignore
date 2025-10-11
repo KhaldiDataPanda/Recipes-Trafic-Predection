@@ -5,4 +5,4 @@ __pycache__/
 # CatBoost artifacts
 catboost_info/
 catboost_info/**
-
+presentation_transcript.md

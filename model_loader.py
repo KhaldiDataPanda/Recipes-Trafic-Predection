@@ -141,7 +141,6 @@ class ModelLoader:
     
     def _load_encoder(self) -> Any:
         """Load the encoder object."""
-        # Try multiple possible encoder filenames
         encoder_filenames = [
             "category_encoder.pkl",
             "target_encoder.pkl",

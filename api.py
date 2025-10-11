@@ -354,6 +354,6 @@ async def predict_from_csv(file: UploadFile = File(...)):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing CSV: {str(e)}")
 
-# Run the server
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
